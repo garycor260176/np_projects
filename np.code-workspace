@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "npESP32HLK2450"
+		},
+		{
+			"path": "npESP32meteo"
+		},
+		{
+			"path": "npESP32relays"
+		}
+	]
+}
